@@ -8,3 +8,7 @@
 8. iStat(性能监视器)
 9. Mac Paw Gemini(系统清理)
 10. AppCleaner(App清理)
+11. FocusWriter
+12. Fraqtive
+13. The Little Crane That Could(Game)
+14. Mathematica(Free for Raspberry Pi)
